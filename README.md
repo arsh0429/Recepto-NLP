@@ -113,4 +113,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## ⚠️ Disclaimer
 
-This tool is for educational and research purposes only. Always respect LinkedIn's terms of service and privacy policies when using this tool. The creators are not responsible for any misuse of this tool. 
+This tool is for educational and research purposes, and developed as a learning project only. Always respect LinkedIn's terms of service and privacy policies when using this tool. The creators are not responsible for any misuse of this tool. 
